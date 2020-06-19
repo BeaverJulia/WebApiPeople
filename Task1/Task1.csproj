@@ -30,4 +30,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="5.4.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="IMG\" />
+  </ItemGroup>
+
 </Project>
